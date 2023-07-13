@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coursework</string>
+    <string name="ColorButtonText">Colour</string>
+    <string name="BrushButtonText">Brush</string>
+    <string name="Red">Red:</string>
+    <string name="Blue">Blue:</string>
+    <string name="Green">Green:</string>
+    <string name="Ok">Ok</string>
+    <string name="BrushSize">Brush Size: </string>
+    <string name="BrushType">Brush Type: </string>
+    <string name="Square">Square</string>
+    <string name="Round">Round</string>
+    <string name="Cancel">Cancel</string>
+</resources>
